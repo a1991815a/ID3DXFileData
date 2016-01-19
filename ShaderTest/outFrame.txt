@@ -1,0 +1,645 @@
+Frame GRootFrame
+{
+  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+  Frame Mesh_Velen
+  {
+    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+    Mesh 
+  }
+  Frame Bone_Velen_1
+  {
+    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+    Frame Bone_Velen_2
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.030642,1.37,0,1,
+      Frame Bone_Velen_3
+      {
+        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.00713,-0.02188,0,1,
+        Frame Bone_Velen_5
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016833,-0.061343,-0.166643,1,
+          Frame Bone_Velen_10
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.173319,-0.593697,-0.077046,1,
+            Frame Bone_Velen_15
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.30921,-0.093489,-0.019006,1,
+              Frame Bone_Velen_22
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.138209,-0.369537,-0.047859,1,
+              }
+            }
+            Frame Bone_Velen_105
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+            }
+          }
+        }
+        Frame Bone_Velen_6
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016833,-0.061343,0.166643,1,
+          Frame Bone_Velen_11
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.173318,-0.593698,0.077046,1,
+            Frame Bone_Velen_16
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.30921,-0.093489,0.019007,1,
+              Frame Bone_Velen_23
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.13821,-0.369536,0.047857,1,
+              }
+            }
+          }
+          Frame Bone_Velen_104
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.244506,0.180787,0.43623,1,
+          }
+        }
+        Frame Bone_Velen_7
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.218117,-0.105704,0,1,
+          Frame Bone_Velen_12
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.184164,-0.276642,0,1,
+            Frame Bone_Velen_17
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.12939,-0.285558,0,1,
+              Frame Bone_Velen_24
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.117626,-0.181155,0,1,
+              }
+            }
+          }
+        }
+        Frame Bone_Velen_8
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.226859,-0.035718,0,1,
+          Frame Bone_Velen_13
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.037643,-0.226727,0,1,
+            Frame Bone_Velen_18
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.032776,-0.300638,0,1,
+            }
+          }
+        }
+        Frame Bone_Velen_93
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.020068,0.016628,0.315189,1,
+        }
+        Frame Bone_Velen_94
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.020068,0.016628,-0.309811,1,
+        }
+        Frame Bone_Velen_95
+        {
+          TransformationMatrix: -0.925425,-0.342004,0.163162,0,-0.336819,0.939698,0.059332,0,-0.173615,-4.9e-05,-0.984814,0,0.104862,-0.053779,0.336111,1,
+          Frame 
+          {
+            TransformationMatrix: 1,-0,-0,0,-0,1,-0,0,-0,-0,1,0,-0,0,-0,1,
+          }
+        }
+        Frame Bone_Velen_96
+        {
+          TransformationMatrix: -0.92545,-0.341938,-0.16316,0,-0.336753,0.939722,-0.059325,0,0.17361,4.3e-05,-0.984814,0,0.104862,-0.053779,-0.336111,1,
+          Frame 
+          {
+            TransformationMatrix: 1,-0,-0,0,0,1,0,0,-0,0,1,0,0,0,0,1,
+          }
+        }
+      }
+      Frame Bone_Velen_4
+      {
+        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.007778,0.023869,0,1,
+        Frame Bone_Velen_9
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.003667,0.164745,0,1,
+          Frame Bone_Velen_14
+          {
+            TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.009367,0.182087,0,1,
+            Frame Bone_Velen_19
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.005805,0.300482,-0.094746,1,
+              Frame Bone_Velen_25
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.002934,-0.057241,-0.263421,1,
+                Frame Bone_Velen_28
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.02679,-0.349589,-0.119955,1,
+                  Frame Bone_Velen_41
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.03792,-0.358277,-0.083026,1,
+                    Frame Bone_Velen_48
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.078086,-0.184023,-0.009663,1,
+                      Frame Bone_Velen_62
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.008482,-0.091595,0.037451,1,
+                      }
+                    }
+                    Frame Bone_Velen_49
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.006494,-0.188441,-0.011067,1,
+                      Frame Bone_Velen_63
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.00713,-0.106543,0.060434,1,
+                      }
+                    }
+                    Frame Bone_Velen_50
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.071893,-0.048393,0.069969,1,
+                      Frame Bone_Velen_64
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.053437,-0.089084,0.045331,1,
+                      }
+                    }
+                    Frame Bone_Velen_51
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.131571,-0.14475,0.032922,1,
+                      Frame Bone_Velen_65
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.027073,-0.125238,0.06527,1,
+                      }
+                    }
+                    Frame Bone_Velen_52
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.075759,-0.176895,0.012129,1,
+                      Frame Bone_Velen_66
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.007654,-0.11459,0.06669,1,
+                      }
+                    }
+                    Frame Bone_Velen_133
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.037501,-0.176128,0.09826,1,
+                      Frame Bone_Velen_142
+                      {
+                        TransformationMatrix: 1.20317,0,0,0,0,1.20318,0,0,0,0,1.20317,0,0,0,0,1,
+                        Frame 
+                        {
+                          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0,-0,0,1,
+                        }
+                      }
+                    }
+                    Frame Bone_Velen_136
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.017013,-0.121238,0.048339,1,
+                    }
+                    Frame Bone_Velen_137
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.056224,-0.107524,0.064211,1,
+                    }
+                    Frame Bone_Velen_138
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.128493,0.164996,0.090109,1,
+                    }
+                    Frame Bone_Velen_139
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.128493,0.164996,0.090109,1,
+                    }
+                    Frame Bone_Velen_140
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.157728,-0.158862,0.142121,1,
+                    }
+                  }
+                  Frame Bone_Velen_129
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+                  }
+                  Frame Bone_Velen_131
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.029591,0.293665,0.224063,1,
+                  }
+                }
+                Frame Bone_Velen_29
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.139565,0.046591,0.025715,1,
+                }
+                Frame Bone_Velen_116
+                {
+                  TransformationMatrix: 1.37779,0,0,0,0,1.37778,0,0,0,0,1.37779,0,0.021982,0.113235,-0.026613,1,
+                  Frame 
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0,0,-0,1,
+                  }
+                }
+                Frame Bone_Velen_119
+                {
+                  TransformationMatrix: 1.36264,0.010288,-0.203447,0,-0.001115,1.37638,0.062134,0,0.203703,-0.061286,1.36126,0,0.020102,0.051741,-0.185012,1,
+                  Frame 
+                  {
+                    TransformationMatrix: 1,-0,-0,0,0,1,-0,0,0,0,1,0,0,0,0,1,
+                  }
+                }
+                Frame Bone_Velen_122
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016768,0.135444,-0.098326,1,
+                }
+                Frame Bone_Velen_123
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016768,0.120963,-0.098326,1,
+                }
+              }
+            }
+            Frame Bone_Velen_20
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.043068,0.394521,0,1,
+              Frame Bone_Velen_26
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.049711,0.150887,0,1,
+                Frame Bone_Velen_30
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.282245,0.216875,-0.000161,1,
+                }
+                Frame Bone_Velen_31
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.281635,0.218924,3.5e-05,1,
+                }
+                Frame Bone_Velen_32
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.181294,0.039311,-0.054682,1,
+                }
+                Frame Bone_Velen_33
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.181294,0.039311,0.05338,1,
+                }
+                Frame Bone_Velen_34
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.096178,-0.038341,0,1,
+                  Frame Bone_Velen_42
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.047027,-0.084855,0.054273,1,
+                    Frame Bone_Velen_54
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.101478,-0.150211,-0.004087,1,
+                    }
+                  }
+                  Frame Bone_Velen_43
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.047027,-0.084855,-0.054273,1,
+                    Frame Bone_Velen_55
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.101478,-0.150211,0.004087,1,
+                    }
+                  }
+                  Frame Bone_Velen_44
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.048238,-0.025264,-0.097637,1,
+                    Frame Bone_Velen_56
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.089297,-0.092058,-0.044026,1,
+                    }
+                  }
+                  Frame Bone_Velen_46
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.048238,-0.025263,0.097637,1,
+                    Frame Bone_Velen_53
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.089297,-0.092059,0.044026,1,
+                    }
+                  }
+                }
+                Frame Bone_Velen_35
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.173214,-0.077541,0.040541,1,
+                }
+                Frame Bone_Velen_36
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.192058,0.050375,0.044307,1,
+                }
+                Frame Bone_Velen_37
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.192058,0.050376,-0.044307,1,
+                }
+                Frame Bone_Velen_38
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.173214,-0.077541,-0.04054,1,
+                }
+                Frame Bone_Velen_118
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.072187,0.254601,0,1,
+                }
+                Frame Bone_Velen_121
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.210863,-0.076323,0,1,
+                }
+                Frame Bone_Velen_126
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.003813,0.164627,0,1,
+                }
+                Frame Bone_Velen_127
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0,0,0,1,
+                }
+              }
+            }
+            Frame Bone_Velen_21
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.005805,0.300481,0.094746,1,
+              Frame Bone_Velen_27
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.002934,-0.05724,0.263422,1,
+                Frame Bone_Velen_39
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.02679,-0.349589,0.119954,1,
+                  Frame Bone_Velen_45
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.032852,-0.310391,0.071929,1,
+                  }
+                  Frame Bone_Velen_47
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.03792,-0.358276,0.083026,1,
+                    Frame Bone_Velen_57
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.071893,-0.048394,-0.069972,1,
+                      Frame Bone_Velen_67
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.053437,-0.089084,-0.045329,1,
+                      }
+                    }
+                    Frame Bone_Velen_58
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.078086,-0.184025,0.009661,1,
+                      Frame Bone_Velen_68
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.008482,-0.091594,-0.037451,1,
+                      }
+                    }
+                    Frame Bone_Velen_59
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.131572,-0.144752,-0.032923,1,
+                      Frame Bone_Velen_69
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.027073,-0.125237,-0.06527,1,
+                      }
+                    }
+                    Frame Bone_Velen_60
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.075759,-0.176896,-0.01213,1,
+                      Frame Bone_Velen_70
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.007654,-0.114589,-0.06669,1,
+                      }
+                    }
+                    Frame Bone_Velen_61
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.006493,-0.188441,0.011065,1,
+                      Frame Bone_Velen_71
+                      {
+                        TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.00713,-0.106544,-0.060432,1,
+                      }
+                    }
+                    Frame Bone_Velen_134
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.037501,-0.176129,-0.097259,1,
+                      Frame Bone_Velen_143
+                      {
+                        TransformationMatrix: 1.20317,0,0,0,0,1.20318,0,0,0,0,1.20317,0,0,0,-0,1,
+                        Frame 
+                        {
+                          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+                        }
+                      }
+                    }
+                    Frame Bone_Velen_135
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.037501,-0.176129,-0.097259,1,
+                    }
+                    Frame Bone_Velen_141
+                    {
+                      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.087317,-0.163383,0.036642,1,
+                    }
+                  }
+                  Frame Bone_Velen_128
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.006497,-0.258462,0.217042,1,
+                  }
+                  Frame Bone_Velen_130
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+                  }
+                  Frame Bone_Velen_132
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.025431,0.31721,-0.189869,1,
+                  }
+                }
+                Frame Bone_Velen_40
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.139565,0.046591,-0.019354,1,
+                }
+                Frame Bone_Velen_117
+                {
+                  TransformationMatrix: 1.3,0,0,0,0,1.3,0,0,0,0,1.3,0,0.021982,0.113235,0.031864,1,
+                  Frame 
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0,0,-0,1,
+                  }
+                }
+                Frame Bone_Velen_120
+                {
+                  TransformationMatrix: 1.37779,0,0,0,0,1.37778,0,0,0,0,1.37778,0,0.020102,0.051741,0.18036,1,
+                  Frame 
+                  {
+                    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+                  }
+                }
+                Frame Bone_Velen_124
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016768,0.120963,0.10655,1,
+                }
+                Frame Bone_Velen_125
+                {
+                  TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.016768,0.135444,0.10655,1,
+                }
+              }
+            }
+            Frame Bone_Velen_106
+            {
+              TransformationMatrix: 0.965234,-0.261386,0,0,0.261386,0.965234,0,0,0,0,1,0,-0.121507,0.072869,0.02106,1,
+              Frame 
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+              }
+            }
+            Frame Bone_Velen_107
+            {
+              TransformationMatrix: 0.108519,-0.994094,-3.2e-05,0,-3.2e-05,2.9e-05,-1,0,0.994094,0.108519,-2.9e-05,0,0.336792,0.114316,0,1,
+              Frame 
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,-0,1,
+              }
+            }
+            Frame Bone_Velen_108
+            {
+              TransformationMatrix: -0.961778,0.260489,0.084434,0,0.0815,-0.022065,0.996429,0,0.261422,0.965225,-8e-06,0,-0.191424,0.055729,0.02106,1,
+              Frame 
+              {
+                TransformationMatrix: 1,-0,0,0,0,1,0,0,0,0,1,0,0,-0,-0,1,
+              }
+            }
+            Frame Bone_Velen_109
+            {
+              TransformationMatrix: -0.283649,-0.632619,0.72065,0,0.28758,0.660806,0.693277,0,-0.91479,0.403892,-0.005509,0,-0.27186,0.47276,-0.33744,1,
+              Frame 
+              {
+                TransformationMatrix: 1,-0,-0,0,-0,1,0,0,-0,0,1,0,-0,-0,0,1,
+              }
+            }
+            Frame Bone_Velen_110
+            {
+              TransformationMatrix: -0.081609,-0.748974,-0.657554,0,0.078393,0.652887,-0.753387,0,0.993577,-0.113031,0.005433,0,-0.366767,0.498472,0.37957,1,
+              Frame 
+              {
+                TransformationMatrix: 1,-0,-0,0,-0,1,0,0,-0,0,1,0,0,-0,0,1,
+              }
+            }
+            Frame Bone_Velen_111
+            {
+              TransformationMatrix: 0.261419,0.965225,-3.4e-05,0,-3.4e-05,-2.6e-05,-1,0,-0.965225,0.261419,2.6e-05,0,-0.442033,0.152059,0.02106,1,
+              Frame 
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,-0,1,
+              }
+            }
+            Frame Bone_Velen_112
+            {
+              TransformationMatrix: 0.201778,0.83619,0.509973,0,-0.010741,-0.518762,0.854851,0,0.979372,-0.177968,-0.095694,0,-0.423701,0.203269,0.117529,1,
+              Frame 
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0,-0,-0,1,
+              }
+            }
+            Frame Bone_Velen_113
+            {
+              TransformationMatrix: 0.026865,0.85925,-0.51085,0,-0.118569,-0.504688,-0.85512,0,-0.992582,0.083544,0.088322,0,-0.347101,0.18738,-0.07775,1,
+              Frame 
+              {
+                TransformationMatrix: 1,0,-0,0,-0,1,0,0,-0,0,1,0,-0,0,-0,1,
+              }
+            }
+            Frame Bone_Velen_114
+            {
+              TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.336792,0.114316,0,1,
+              Frame Bone_Velen_115
+              {
+                TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,-0,0,1,
+              }
+            }
+          }
+        }
+        Frame Bone_Velen_97
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0.00023,-0.00958,1,
+        }
+        Frame Bone_Velen_98
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0.00023,-0.00958,1,
+        }
+        Frame Bone_Velen_99
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0.00023,-0.00958,1,
+        }
+        Frame Bone_Velen_100
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0.00023,-0.00958,1,
+        }
+        Frame Bone_Velen_101
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0.00023,-0.00958,1,
+        }
+        Frame Bone_Velen_102
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.022864,0.133904,0,1,
+        }
+        Frame Bone_Velen_103
+        {
+          TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.022864,0.133904,0,1,
+        }
+      }
+    }
+    Frame Bone_Velen_75
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.111111,1.94444,0,1,
+    }
+    Frame Bone_Velen_76
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.813657,0,0.367632,1,
+    }
+    Frame Bone_Velen_77
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.782075,0,-0.391541,1,
+    }
+    Frame Bone_Velen_78
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.228676,0.033633,-0.219768,1,
+    }
+    Frame Bone_Velen_79
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+    }
+    Frame Bone_Velen_80
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.813657,0.000253,0.367632,1,
+    }
+    Frame Bone_Velen_81
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.386876,0,0.214058,1,
+    }
+    Frame Bone_Velen_82
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.782075,0.006777,-0.391541,1,
+    }
+    Frame Bone_Velen_83
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.466573,0,-0.233702,1,
+    }
+    Frame Bone_Velen_84
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+    }
+    Frame Bone_Velen_85
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.71137,-0.0022,0.253232,1,
+    }
+    Frame Bone_Velen_86
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.237298,-0.0022,0.186631,1,
+    }
+    Frame Bone_Velen_87
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.237298,-0.0022,0.186631,1,
+    }
+    Frame Bone_Velen_88
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.427346,0.005826,-0.319029,1,
+    }
+    Frame Bone_Velen_89
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.248927,0.005826,-0.195205,1,
+    }
+    Frame Bone_Velen_90
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.297087,0.005826,-0.195205,1,
+    }
+    Frame Bone_Velen_91
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0.260838,0,0.260933,1,
+    }
+    Frame Bone_Velen_92
+    {
+      TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.275695,0,-0.27434,1,
+    }
+  }
+  Frame Bone_Velen_72
+  {
+    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,2.81167,0,1,
+  }
+  Frame Bone_Velen_73
+  {
+    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,
+  }
+  Frame Bone_Velen_74
+  {
+    TransformationMatrix: 1,0,0,0,0,1,0,0,0,0,1,0,-0.026688,2.66649,-0.033818,1,
+  }
+}

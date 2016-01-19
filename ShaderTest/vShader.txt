@@ -1,0 +1,26 @@
+float4x4	MVPMatrix;
+float4		inColor;
+float		drawWeight;
+
+struct VS_INPUT{
+	float3 position: POSITION;
+	float3 normal: NORMAL;
+};
+
+struct VS_OUTPUT{
+	float4 position: POSITION;
+	float4 color: COLOR;
+};
+
+VS_OUTPUT main(VS_INPUT input){
+	VS_OUTPUT output = (VS_OUTPUT)0;
+
+	input.position = input.position + input.normal * drawWeight;
+
+	output.position = mul(float4(input.position.xyz, 1.0f), MVPMatrix);
+	output.position.xyz /= output.position.w;
+	output.position.w = 1.0f;
+
+	output.color = inColor;
+	return output;
+};

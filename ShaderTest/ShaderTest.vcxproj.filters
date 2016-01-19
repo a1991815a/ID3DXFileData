@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="渲染引擎">
+      <UniqueIdentifier>{8fa7b4e4-e1d1-4385-a5c7-46d3ee8dc861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Appcalition">
+      <UniqueIdentifier>{b520bf7e-6e1d-4c3a-bd0d-205f3d1d46c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{72d26fb3-9774-40db-b39c-704afb2749cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="着色器脚本">
+      <UniqueIdentifier>{d92de8bc-8474-4bb7-823d-e12acf7fe4d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="读取库">
+      <UniqueIdentifier>{5163eea3-1917-4ddf-934f-e1f3dbb6398a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="动态对象">
+      <UniqueIdentifier>{b75f98fa-abbd-4eae-9430-c11fafeede33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RenderEngine\D3DXRenderEngine.cpp">
+      <Filter>渲染引擎</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderEngine\DXMathUtils.cpp">
+      <Filter>渲染引擎</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderEngine\DXUtils.cpp">
+      <Filter>渲染引擎</Filter>
+    </ClCompile>
+    <ClCompile Include="GApplication.cpp">
+      <Filter>Appcalition</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Math\Rect2D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Math\Rect3D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Math\Size.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="WinCreate.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="WinDestroy.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="XFileStruct.cpp">
+      <Filter>读取库</Filter>
+    </ClCompile>
+    <ClCompile Include="XFileUtils.cpp">
+      <Filter>读取库</Filter>
+    </ClCompile>
+    <ClCompile Include="GSkinInfo.cpp">
+      <Filter>动态对象</Filter>
+    </ClCompile>
+    <ClCompile Include="GAnimation.cpp">
+      <Filter>动态对象</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RenderEngine\D3DXRenderEngine.h">
+      <Filter>渲染引擎</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderEngine\DXMathUtils.h">
+      <Filter>渲染引擎</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderEngine\DXUtils.h">
+      <Filter>渲染引擎</Filter>
+    </ClInclude>
+    <ClInclude Include="GApplication.h">
+      <Filter>Appcalition</Filter>
+    </ClInclude>
+    <ClInclude Include="GameHeader.h">
+      <Filter>渲染引擎</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMacro.h">
+      <Filter>渲染引擎</Filter>
+    </ClInclude>
+    <ClInclude Include="Math\Point.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Math\Rect2D.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Math\Rect3D.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Math\Size.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="XFileStruct.h">
+      <Filter>读取库</Filter>
+    </ClInclude>
+    <ClInclude Include="XFileUtils.h">
+      <Filter>读取库</Filter>
+    </ClInclude>
+    <ClInclude Include="GSkinInfo.h">
+      <Filter>动态对象</Filter>
+    </ClInclude>
+    <ClInclude Include="GAnimation.h">
+      <Filter>动态对象</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="vShader.txt">
+      <Filter>着色器脚本</Filter>
+    </Text>
+    <Text Include="pShader.txt">
+      <Filter>着色器脚本</Filter>
+    </Text>
+    <Text Include="Text.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="debug.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="outAni.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="outFrame.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="outSkin.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="role.x">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="DrawNormal.fx">
+      <Filter>着色器脚本</Filter>
+    </FxCompile>
+    <FxCompile Include="Normal.fx">
+      <Filter>着色器脚本</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
